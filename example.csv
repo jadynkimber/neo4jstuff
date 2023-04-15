@@ -1,0 +1,4 @@
+Id,OID,name,address,parents,children
+1,mid1,ratta,hello@aa,["mid250" "mid251" "mid253"],["mid60" "mid65"]
+2,mid2,butta,ado@bb,["mid350" "mid365" "mid320" "mid450" "mid700"],["mid20" "mid25" "mid30"]
+3,mid3,natta,hkk@aa,["mid50" "mid311" "mid543"],[]
